@@ -4,7 +4,8 @@
 
 A visually enhanced game of Tic Tac Toe with a twist and a formidable AI opponent! This isn't your standard 3-in-a-row; the "infinite" rule adds a layer of complexity where your oldest piece disappears after you've placed three. Can you outsmart the AI?
 
-![Screenshot]
+![Screenshot](https://github.com/user-attachments/assets/9b51399b-bdb2-4b65-99e3-51f733a18330)
+
 
 ## Features
 
